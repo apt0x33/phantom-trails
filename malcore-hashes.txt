@@ -1,4 +1,2 @@
-# SHA256: eac56a5fe42381b76889aa354c7b3f2e7ed92db6a2a7d87fc99a9e1b25e3f9b0
-# VirusTotal: https://www.virustotal.com/gui/file/eac56a5fe42381b76889aa354c7b3f2e7ed92db6a2a7d87fc99a9e1b25e3f9b0
-# Flagged by 5 vendors
-# Sample URL: hxxp://phantom-archive[.]tor/download?id=109
+# Go to artifacts folder
+Source: Trust me bro...
